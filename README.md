@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nihcas-byte
 - 👀 I’m interested in ... Azure, AWS, PowerShell and Python
-- 🌱 I’m currently learning ...Python, Azure and AWS.
+- 🌱 I’m currently learning ...Python, Powershell, Azure and AWS.
 - 💞️ I’m looking to collaborate on ...Python, PowerShell and Azure
 - 📫 How to reach me ...
 
